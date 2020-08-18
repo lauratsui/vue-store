@@ -3,6 +3,8 @@ Boilerplate to start new Vue Application
 <br />
 <br />
 
+![Starterkit](https://raw.githubusercontent.com/TechLadies/vuejs-starterkit/master/vue-starterkit.png)
+
 Getting Started
 ------------
   * Install dependencies
